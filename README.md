@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/129328468/235618047-4f351c0d-a73e-4239
 ## How to run the app
 - **Clone the project.**
 ```shell
-git clone https://github.com/ruslan-volkhov-ew/quizApp-FlutterFlow.git
+git clone https://github.com/guilsuper/quizApp-FlutterFlow
 ```
 - **Open the project.**
 ```shell
@@ -68,9 +68,4 @@ flutter build web
 ```shell
 firebase deploy
 ```
-
-
-Created by **Ruslan Volkhov**
-
-[Extrawest.com](https://www.extrawest.com), 2023
 
